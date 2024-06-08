@@ -1,0 +1,17 @@
+body{
+    background-color: antiquewhite;
+}
+#navbar{
+    padding: 10px;
+    height: 10%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background-color: rgb(255, 247, 235);
+}
+#navbar h4{
+    margin-left: 10px;
+}
+#header img{
+    border-radius: 50px;
+}
